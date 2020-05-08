@@ -1,2 +1,2 @@
 # mongo-spring-angular
-Simple Web application using the Angular as front-end and Spring Boot as back-end.
+Simple Web application using Angular as a front-end, Spring Boot as a back-end and MongoDB.
